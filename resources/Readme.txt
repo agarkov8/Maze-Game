@@ -1,0 +1,1 @@
+Alle Resourcen unterhalb dieses Ordners speichern.

@@ -1,4 +1,5 @@
 # Maze-Game
+University Team Project
 
 A randomly generated maze with 4 target cells at each corner is generated. A Dijkstra algorithm calculates the shortest path to the target cell and if the player leaves the shortest path, the color of the figure turns red and the player cannot complete the game.
 
